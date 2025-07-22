@@ -1,3 +1,5 @@
+.env
+src/environments/environment.development.ts
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
 # Compiled output
@@ -10,8 +12,8 @@
 /node_modules
 npm-debug.log
 yarn-error.log
-
 # IDEs and editors
+
 .idea/
 .project
 .classpath
